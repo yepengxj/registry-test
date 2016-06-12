@@ -1,2 +1,2 @@
 # registry-test
-FROM registry.dataos.io/guestbook/jupyter
+FROM registry.dataos.io/guestbook/rstudio
