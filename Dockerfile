@@ -1,2 +1,2 @@
 # registry-test
-FROM registry.dataos.io/baseimage/openshift-jenkins:latest
+FROM registry.dataos.io/guestbook/jupyter
